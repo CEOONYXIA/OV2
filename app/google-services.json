@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "195970939041",
+    "firebase_url": "https://linkr-2f5bf.firebaseio.com",
+    "project_id": "linkr-2f5bf",
+    "storage_bucket": "linkr-2f5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195970939041:android:b6663d4efe157612",
+        "android_client_info": {
+          "package_name": "com.onyxiasoftware.linkr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195970939041-rkttk5lo2ecd9k5m61s2snhi4egbhhhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onyxiasoftware.linkr",
+            "certificate_hash": "3f04bfda19a9b77de31f5eacb39d2c7f697934c2"
+          }
+        },
+        {
+          "client_id": "195970939041-e81qmfg0dorop56ofa6qtran5klgrh91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2dR9cbdfn9SKjJs6hmKydICDts4eE_uM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195970939041-e81qmfg0dorop56ofa6qtran5klgrh91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
